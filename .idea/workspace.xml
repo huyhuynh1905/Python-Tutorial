@@ -112,6 +112,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -127,7 +128,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.__init__">
+  <component name="RunManager">
     <configuration name="CacHamToanHoc" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="FirstProjectPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -233,22 +234,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <list>
-      <item itemvalue="Python.ToanTuPyThon" />
-      <item itemvalue="Python.GuessFilm" />
-      <item itemvalue="Python.CacHamToanHoc" />
-      <item itemvalue="Python.CacKieuXuatDuLieu" />
-      <item itemvalue="Python.__init__" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.__init__" />
-        <item itemvalue="Python.CacKieuXuatDuLieu" />
-        <item itemvalue="Python.CacHamToanHoc" />
-        <item itemvalue="Python.GuessFilm" />
-        <item itemvalue="Python.ToanTuPyThon" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
