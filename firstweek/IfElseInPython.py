@@ -8,3 +8,5 @@ elif dtb>6.5 and dtb<8.5:
     print("Điểm khá")
 elif dtb>=9.5:
     print("Điểm giỏi!")
+
+print("m = 5" if 5!=4 else "m = 6")
